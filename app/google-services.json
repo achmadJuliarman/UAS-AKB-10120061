@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "331440688082",
+    "firebase_url": "https://uas-10120061-if2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "uas-10120061-if2",
+    "storage_bucket": "uas-10120061-if2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331440688082:android:0fe51a85bec953633d160b",
+        "android_client_info": {
+          "package_name": "com.uas.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331440688082-evova2u69ssqqfsepjq0r3dnpqeen8sh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANMlpu4ltRs6IkwL8qARq2gIT1xS3nH6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331440688082-evova2u69ssqqfsepjq0r3dnpqeen8sh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
