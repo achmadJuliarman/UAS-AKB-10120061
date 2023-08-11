@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "com.uas.notes.app-mergeDebugResources-5:/layout/activity_login.xml",
+        "source": "com.uas.notes.app-main-8:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.uas.notes.app-mergeDebugResources-5:/layout/activity_add_notes.xml",
+        "source": "com.uas.notes.app-main-8:/layout/activity_add_notes.xml"
+    },
+    {
+        "merged": "com.uas.notes.app-mergeDebugResources-5:/layout/fragment_about.xml",
+        "source": "com.uas.notes.app-main-8:/layout/fragment_about.xml"
+    },
+    {
+        "merged": "com.uas.notes.app-mergeDebugResources-5:/layout/activity_update_notes.xml",
+        "source": "com.uas.notes.app-main-8:/layout/activity_update_notes.xml"
+    },
+    {
+        "merged": "com.uas.notes.app-mergeDebugResources-5:/layout/activity_main.xml",
+        "source": "com.uas.notes.app-main-8:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.uas.notes.app-mergeDebugResources-5:/layout/fragment_about_page1.xml",
+        "source": "com.uas.notes.app-main-8:/layout/fragment_about_page1.xml"
+    },
+    {
+        "merged": "com.uas.notes.app-mergeDebugResources-5:/layout/category_notes.xml",
+        "source": "com.uas.notes.app-main-8:/layout/category_notes.xml"
+    },
+    {
+        "merged": "com.uas.notes.app-mergeDebugResources-5:/layout/activity_register.xml",
+        "source": "com.uas.notes.app-main-8:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.uas.notes.app-mergeDebugResources-5:/layout/fragment_profile.xml",
+        "source": "com.uas.notes.app-main-8:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.uas.notes.app-mergeDebugResources-5:/layout/fragment_notes.xml",
+        "source": "com.uas.notes.app-main-8:/layout/fragment_notes.xml"
+    },
+    {
+        "merged": "com.uas.notes.app-mergeDebugResources-5:/layout/activity_detail_notes.xml",
+        "source": "com.uas.notes.app-main-8:/layout/activity_detail_notes.xml"
+    },
+    {
+        "merged": "com.uas.notes.app-mergeDebugResources-5:/layout/list_notes.xml",
+        "source": "com.uas.notes.app-main-8:/layout/list_notes.xml"
+    },
+    {
+        "merged": "com.uas.notes.app-mergeDebugResources-5:/layout/fragment_about_page2.xml",
+        "source": "com.uas.notes.app-main-8:/layout/fragment_about_page2.xml"
+    },
+    {
+        "merged": "com.uas.notes.app-mergeDebugResources-5:/layout/fragment_about_page3.xml",
+        "source": "com.uas.notes.app-main-8:/layout/fragment_about_page3.xml"
+    },
+    {
+        "merged": "com.uas.notes.app-mergeDebugResources-5:/layout/activity_spash_screen.xml",
+        "source": "com.uas.notes.app-main-8:/layout/activity_spash_screen.xml"
+    }
+]

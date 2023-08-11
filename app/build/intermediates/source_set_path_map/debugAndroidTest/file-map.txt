@@ -1,0 +1,7 @@
+com.uas.notes.test.app-androidTest-0 C:\AndroidApp\UAS-10120061-AKB\app\build\generated\res\resValues\androidTest\debug
+com.uas.notes.test.app-androidTest-1 C:\AndroidApp\UAS-10120061-AKB\app\build\generated\res\rs\androidTest\debug
+com.uas.notes.test.app-mergeDebugAndroidTestResources-2 C:\AndroidApp\UAS-10120061-AKB\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.uas.notes.test.app-mergeDebugAndroidTestResources-3 C:\AndroidApp\UAS-10120061-AKB\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.uas.notes.test.app-merged_res-4 C:\AndroidApp\UAS-10120061-AKB\app\build\intermediates\merged_res\debugAndroidTest
+com.uas.notes.test.app-jetified-core-1.5.0-5 C:\Users\Arman\.gradle\caches\transforms-3\29480f10fc7a41790765659927f110f9\transformed\jetified-core-1.5.0\res
+com.uas.notes.test.app-jetified-annotation-experimental-1.3.0-6 C:\Users\Arman\.gradle\caches\transforms-3\2d36b0dc26eace27db4864c2bc3f6b17\transformed\jetified-annotation-experimental-1.3.0\res
